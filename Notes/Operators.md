@@ -1,5 +1,5 @@
 ## Arithmetic
-![[../Attachments/arithmetic_operators.png]]
+![arithmetic_operators.png](../Attachments/arithmetic_operators.png)
 
 ```c
 #include <stdio.h>
@@ -33,7 +33,7 @@ int main() {
 ```
 
 ## Relational
-![[../Attachments/relational_operators.png]]
+![relational_operators.png](../Attachments/relational_operators.png)
 
 ```c
 #include <stdio.h>
@@ -65,7 +65,7 @@ int main() {
 ```
 
 ## Logical
-![[../Attachments/logical_operators.png]]
+![logical_operators.png](../Attachments/logical_operators.png)
 
 ```c
 #include <stdio.h>
@@ -97,9 +97,9 @@ int main() {
 ```
 
 ## Bit-wise
-![[../Attachments/bitwise_operators_truth_table.png]]
+![bitwise_operators_truth_table.png](../Attachments/bitwise_operators_truth_table.png)
 
-![[../Attachments/bitwise_operators.png]]
+![bitwise_operators.png](../Attachments/bitwise_operators.png)
 
 ```c
 #include <stdio.h>
@@ -143,7 +143,7 @@ lshift and rshift are equivalent to multiplication and floor division:
 - `N << x == N * 2^x`
 
 ## Assignment
-![[../Attachments/assignment_operators.png]]
+![assignment_operators.png](../Attachments/assignment_operators.png)
 
 ```c
 #include <stdio.h>
