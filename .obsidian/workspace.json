@@ -1,0 +1,198 @@
+{
+  "main": {
+    "id": "3102100fd9748691",
+    "type": "split",
+    "children": [
+      {
+        "id": "d38137caa8457211",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "a9293e085ed69621",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "README.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "00d1c0511e949d88",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Notes/Operators.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "ea1d5748ec02ca42",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Notes/`printf`.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "66754e1b7ac37570",
+    "type": "split",
+    "children": [
+      {
+        "id": "7fb722090b37f194",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "e10d261a84f073e6",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "52adf353377222c9",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "282cbe5240325229",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "ba2054f077521ede",
+    "type": "split",
+    "children": [
+      {
+        "id": "87a30b27d3add712",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "8b69c9295d62b1a7",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "README.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "64b261cf52f8df8f",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "README.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "9376c24a4c49b56c",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "53613c76e40b5241",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "README.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "a9293e085ed69621",
+  "lastOpenFiles": [
+    "Notes/Escaping Chars.md",
+    "README.md",
+    "Notes.md",
+    "Notes",
+    "Notes/`printf`.md",
+    "Code/Tasks/2023-08-12/string_formatting.c",
+    "Code/Tasks/2023-08-12/relational_operators.c",
+    "Code/Tasks/2023-08-12/logical_operators.c",
+    "Code/Tasks/2023-08-12/bitwise_operators.c",
+    "Code/Tasks/2023-08-12/assignment_operators.c",
+    "Code/Tasks/2023-08-12/arithmetic_operators.c",
+    "Code/Tasks/2023-08-12",
+    "Code/Tasks",
+    "Code/2023-08-12/string_formatting.c",
+    "Notes/Operators.md",
+    "Attachments/assignment_operators.png",
+    "Attachments/bitwise_operators.png",
+    "Attachments/bitwise_operators_truth_table.png",
+    "Attachments/logical_operators.png",
+    "Attachments/relational_operators.png",
+    "Attachments/arithmetic_operators.png",
+    "Attachments/escape_chars.png"
+  ]
+}
