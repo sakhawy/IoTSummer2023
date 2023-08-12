@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "README.md",
+                "file": "Notes/Operators.md",
                 "mode": "source",
                 "source": false
               }
@@ -109,7 +109,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "README.md",
+                "file": "Notes/Operators.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -126,7 +126,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "README.md",
+                "file": "Notes/Operators.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -149,7 +149,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "README.md"
+                "file": "Notes/Operators.md"
               }
             }
           }
@@ -173,10 +173,11 @@
   "active": "a9293e085ed69621",
   "lastOpenFiles": [
     "Notes/Escaping Chars.md",
+    "Notes/`printf`.md",
+    "Notes/Operators.md",
     "README.md",
     "Notes.md",
     "Notes",
-    "Notes/`printf`.md",
     "Code/Tasks/2023-08-12/string_formatting.c",
     "Code/Tasks/2023-08-12/relational_operators.c",
     "Code/Tasks/2023-08-12/logical_operators.c",
@@ -186,7 +187,6 @@
     "Code/Tasks/2023-08-12",
     "Code/Tasks",
     "Code/2023-08-12/string_formatting.c",
-    "Notes/Operators.md",
     "Attachments/assignment_operators.png",
     "Attachments/bitwise_operators.png",
     "Attachments/bitwise_operators_truth_table.png",
