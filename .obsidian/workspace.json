@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Notes/Operators.md",
+                "file": "README.md",
                 "mode": "source",
                 "source": false
               }
@@ -109,7 +109,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Notes/Operators.md",
+                "file": "README.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -126,7 +126,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Notes/Operators.md",
+                "file": "README.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -149,7 +149,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Notes/Operators.md"
+                "file": "README.md"
               }
             }
           }
@@ -172,9 +172,9 @@
   },
   "active": "a9293e085ed69621",
   "lastOpenFiles": [
-    "Notes/Escaping Chars.md",
-    "Notes/`printf`.md",
     "Notes/Operators.md",
+    "Notes/`printf`.md",
+    "Notes/Escaping Chars.md",
     "README.md",
     "Notes.md",
     "Notes",
